@@ -1,0 +1,13 @@
+Aula 04/08/2025
+
+Abstração:
+- Representação de uma entidade de maneira simplificada.
+
+Ocultamento de informação:
+- Privar variáveis para proteção. Usado getter e setter para acessá-los em outros lugares.
+
+Coesão:
+- Faz uma funcionalidade bem feita. Facilitando a leitura e ajudando no manuseio do código.
+
+Acoplamento:
+- Força da conexão entre duas classes. Caso mexa em um código de A, pode afetar o código de B. (Herança, Implementação, Associação).
