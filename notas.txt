@@ -1,3 +1,14 @@
+Aula 05/08/2025
+
+SOLID:
+- Usar a orientação a objetos da maneira correta.
+  S - Classe com responsabilidade única.
+  O - 
+  L - 
+  I - Uso de interface para comunicação entre as classes. Evita comunicação direta entre elas.
+  D - 
+
+
 Aula 04/08/2025
 
 Abstração:
