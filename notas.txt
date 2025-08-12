@@ -1,10 +1,10 @@
-Aula 05/08/2025 e 11/08/2025
+Aula 05/08/2025, 11/08/2025 e 12/08/2025
 
 SOLID:
 - Usar a orientação a objetos da maneira correta.
   S - Classe com responsabilidade única.
   O - Uma classe deve estar fechada para modificações e aberta para extensões.
-  L - 
+  L - Trocar uma chamada de uma classe filho por outra classe filho mantém a funcionalidade do código.
   I - Uso de interface para comunicação entre as classes. Evita comunicação direta entre elas.
   D - Classe deve depender de uma abstração e não de implementação concreta. (Controller -> <<Interface>> -> Service)
       - Evitar extends entre classe pai e filho onde a classe filho pode assumir o papel de outra classe filho.
