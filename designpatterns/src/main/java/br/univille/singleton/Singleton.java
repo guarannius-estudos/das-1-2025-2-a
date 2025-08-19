@@ -2,9 +2,10 @@ package br.univille.singleton;
 
 public class Singleton {
     private static Singleton instance;
+    private String segredo;
 
     private Singleton() {
-
+        
     }
 
     public static Singleton getInstance() {
@@ -13,5 +14,13 @@ public class Singleton {
         }
 
         return instance;
+    }
+
+    public String getSegredo() {
+        return segredo;
+    }
+
+    public void setSegredo(String segredo) {
+        this.segredo = segredo;
     }
 }
