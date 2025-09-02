@@ -1,3 +1,13 @@
+Aula 02/09/2025
+
+Diferençca entre Arquitetura e Design:
+- Arquitetura define a estrutura do software e os padrões que ele vai seguir.
+- Design é a parte de como essa estrutura vai ser implementada.
+
+Como é a formação do conhecimento de um arquiteto modelo T?
+- Vale mais ter uma amplitude maior de conhecimento do que a especialização em um único tema.
+- Saber mais de um panorama geral ajuda a tomar decisões melhores para cada situação.
+
 Aula 26/08/2025 e 01/09/2025
 
 Características da arquitetura:
