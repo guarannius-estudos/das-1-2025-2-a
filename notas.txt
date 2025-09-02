@@ -1,3 +1,20 @@
+Aula 26/08/2025 e 01/09/2025
+
+Características da arquitetura:
+- Requisitos não funcionais. (Impossível atender todos os requisitos)
+
+Decisões da arquitetura:
+- Definir a estrutura do sistema.
+
+Princípios do design:
+- Definir os princípios para construir o sistema.
+
+Arquiteto:
+- Orienta a equipe.
+- Mantém o padrão do projeto.
+- Analisa as mudanças do sistema.
+- Toma as decisões difíceis.
+
 Aula 05/08/2025, 11/08/2025 e 12/08/2025
 
 SOLID:
