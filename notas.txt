@@ -1,4 +1,4 @@
-Aula 02/09/2025
+Aula 02/09/2025 e 08/09/2025
 
 Diferençca entre Arquitetura e Design:
 - Arquitetura define a estrutura do software e os padrões que ele vai seguir.
@@ -7,6 +7,27 @@ Diferençca entre Arquitetura e Design:
 Como é a formação do conhecimento de um arquiteto modelo T?
 - Vale mais ter uma amplitude maior de conhecimento do que a especialização em um único tema.
 - Saber mais de um panorama geral ajuda a tomar decisões melhores para cada situação.
+
+Trade-Off
+- Não existe resposta certa ou errada, apenas decisões baseadas em trade-offs.
+- O arquiteto deve analisar os prós e contras de cada opção e escolher a melhor para a situação.
+  
+  Cenário: Sistema de leilão
+  - Serviço Quem dá o lance gera e envia o valor do lance para três serviços:
+    * Capturar lance
+    * Rastrear lance
+    * Analisar lance
+
+  - Opções de comunicação entre serviços
+    * Uso de Tópicos (modelo um para muitos)
+      - Serviço conecta-se a um único tópico.
+      - Novos serviços podem ser adicionados sem alterar os serviços existentes.
+      - Entrega a mensagem uma vez e todos recebem.
+
+    * Uso de Filas (modelo um para um)
+      - Serviço precisa conectar-se a múltiplas filas.
+      - Para adicionar um novo serviço é necessário criar uma nova fila e modificar o serviço para enviar mensagens para essa nova fila.
+      - Entrega a mensagem individualmente para cada um.
 
 Aula 26/08/2025 e 01/09/2025
 
