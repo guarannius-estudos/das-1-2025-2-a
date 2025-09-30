@@ -1,3 +1,15 @@
+Aula 29/09/2025
+https://learn.microsoft.com/pt-br/azure/architecture/patterns/circuit-breaker?wt.mc_id=AZ-MVP-5003638
+
+Circuit Breaker
+- A idéia é protejer o sistema como um disjuntor, bloqueia temporariamente o acesso a um serviço depois de detectar alguma falha.
+- Impede repetidas tentativas malsucedidas para que o sistema possa se recuperar efetivamente.
+- Melhora a estabilidade e a resiliência de um sistema.
+- Estados de um circuit Breaker:
+  * Closed - Quando não há falhas o circuit Breaker está fechado.
+  * Open - Quando acontece uma falha o circuit Breaker abre, ou seja, aconteceu uma falha.
+  * Half-Open - Sistema fechado, porém em alerta, necessita atenção.
+
 Aula 02/09/2025 e 08/09/2025
 
 Diferençca entre Arquitetura e Design:
