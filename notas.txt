@@ -42,6 +42,7 @@ Trade-Off
       - Entrega a mensagem individualmente para cada um.
 
 Aula 26/08/2025 e 01/09/2025
+https://learn.microsoft.com/pt-br/training/modules/introduction-to-devops/2-what-is-devops?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.az-400-work-git-for-enterprise-devops
 
 Características da arquitetura:
 - Requisitos não funcionais. (Impossível atender todos os requisitos)
@@ -59,6 +60,8 @@ Arquiteto:
 - Toma as decisões difíceis.
 
 Aula 05/08/2025, 11/08/2025 e 12/08/2025
+https://engsoftmoderna.info/cap5.html
+https://engsoftmoderna.info/cap6.html
 
 SOLID:
 - Usar a orientação a objetos da maneira correta.
@@ -71,6 +74,7 @@ SOLID:
       - O método deve usar somente os seguintes métodos: de sua própria classe, de objetos passados como parâmetros, de objetos criados pelo próprio método, de atributos do próprio método. (Não usar variáveis globais)
 
 Aula 04/08/2025
+https://engsoftmoderna.info/cap5.html
 
 Abstração:
 - Representação de uma entidade de maneira simplificada.
