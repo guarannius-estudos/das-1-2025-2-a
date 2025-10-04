@@ -15,10 +15,10 @@ Professor: <a href="https://github.com/waltercoan" target="_blank">Walter Coan</
 
 ## :sparkles: Conteúdo ##
 
-:heavy_check_mark: notas.txt - Anotações das aulas teóricas.<br>
-:heavy_check_mark: solid/ - Código sobre padrão SOLID.<br>
-:heavy_check_mark: designpatterns/ - Código sobre Design Pattern.;<br>
-:heavy_check_mark: events/ - Código sobre Trade-Off.;
+:heavy_check_mark: <a href="https://github.com/guarannius-estudos/das-1-2025-2-a/blob/main/notas.txt" target="_blank">notas.txt</a> - Anotações das aulas teóricas.<br>
+:heavy_check_mark: <a href="https://github.com/guarannius-estudos/das-1-2025-2-a/tree/main/solid" target="_blank">solid/</a> - Código sobre padrão SOLID.<br>
+:heavy_check_mark: <a href="https://github.com/guarannius-estudos/das-1-2025-2-a/blob/main/designpatterns" target="_blank">designpatterns/</a> - Código sobre Design Pattern.;<br>
+:heavy_check_mark: <a href="https://github.com/guarannius-estudos/das-1-2025-2-a/blob/main/events" target="_blank">events/</a> - Código sobre Trade-Off.;
 
 ## :rocket: Tecnologias ##
 
