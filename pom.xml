@@ -12,6 +12,9 @@
     <modules>
         <module>designpatterns</module>
         <module>events</module>
+        <module>microkernel-interface</module>
+        <module>microkernel-kernel</module>
+        <module>microkernel-plugin</module>
         <module>pipeline</module>
         <module>solid</module>
     </modules>
